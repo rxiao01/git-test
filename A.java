@@ -4,4 +4,3 @@ public class A {
 
     public float f;
 }
-
